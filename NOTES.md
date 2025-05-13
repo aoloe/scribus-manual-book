@@ -16,3 +16,5 @@
     - Select the text frame and "Item > Duplicate/Transform > Multiple Duplicate > By pages" and let Scribus put the frame on all pages where it is needed.
     - For the next chapter create a new frame that you will add to the "Patterns"
     - By double clicking on the pattern item, you can edit and change the chapter title.
+
+jghali says: "Professional do not layout covers using spreads or facing pages. Facing pages simply do not work if spine width is several mm. Covers are layouted using single page documents. In this context, there is no "inside bleed", just left bleed and right bleed."
